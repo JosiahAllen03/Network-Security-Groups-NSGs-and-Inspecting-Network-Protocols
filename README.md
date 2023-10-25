@@ -46,15 +46,21 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ![image](https://github.com/JosiahAllen03/test/assets/147882549/00a33447-a806-4e03-b063-5be80ee9c4ee)
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+![image](https://github.com/JosiahAllen03/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/147882549/1a6dbfdc-5b6a-4ff0-9431-c38d8a4ed6e2)
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
 
+![image](https://github.com/JosiahAllen03/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/147882549/8e75c999-a66b-4e08-aa04-0eb17bcea885)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  
+![image](https://github.com/JosiahAllen03/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/147882549/52394a92-7752-434c-ae63-e04358ac047c)
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
