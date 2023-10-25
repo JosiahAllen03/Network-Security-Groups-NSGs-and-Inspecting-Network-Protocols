@@ -66,3 +66,29 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
+![image](https://github.com/JosiahAllen03/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/147882549/627a6de8-e8d3-406c-b2ff-faebbc672fca)
+
+![image](https://github.com/JosiahAllen03/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/147882549/7361e783-fee3-4e18-a4f6-04a02dba038d)
+
+![image](https://github.com/JosiahAllen03/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/147882549/176c82c7-cbbe-4ac8-9e5d-06a4ab5ce91b)
+
+![image](https://github.com/JosiahAllen03/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/147882549/746b41fd-3e92-4843-b248-1e2739a599c6)
+
+![image](https://github.com/JosiahAllen03/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/147882549/f5651073-901f-4018-b09c-7852143f822a)
+
+![image](https://github.com/JosiahAllen03/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/147882549/c9d63b07-9b4e-4b55-9e05-9deea699baa2)
+
+![image](https://github.com/JosiahAllen03/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/147882549/370e5656-c235-4484-b281-52511b410ac6)
+
+![image](https://github.com/JosiahAllen03/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/147882549/e110a374-038c-42f2-849f-94b3c5b38a50)
+
+![image](https://github.com/JosiahAllen03/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/147882549/d9232bc4-1431-4f4f-a89b-7ee386f9cfbe)
+
+![image](https://github.com/JosiahAllen03/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/147882549/6912efed-06d7-472c-85cb-d212d8b0188e)
+
+![image](https://github.com/JosiahAllen03/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/147882549/ca5be365-1e58-4808-81d6-42f20cc4b806)
+
+![image](https://github.com/JosiahAllen03/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/147882549/06e68437-0aaa-4d9e-baed-aa00fe5b161c)
+
+![image](https://github.com/JosiahAllen03/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols/assets/147882549/14c8ac3c-e9cf-4d08-916e-bbb09d936f81)
