@@ -43,6 +43,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
+![image](https://github.com/JosiahAllen03/test/assets/147882549/00a33447-a806-4e03-b063-5be80ee9c4ee)
+
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
