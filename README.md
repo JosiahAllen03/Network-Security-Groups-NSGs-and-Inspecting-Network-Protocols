@@ -23,6 +23,8 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
   -  SSH - Secure Shell
   -  RDP - Remote Desktop Protocol
 
+
+
 <h2>Operating Systems Used </h2>
 
 - Windows 10 (21H2)
@@ -30,9 +32,11 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>List of Prerequisites</h2>
 
-- Mircosoft Azure Subscription
+- Mircosoft Azure Subscription, sign up for a free account. 
 - Access to Microsoft Remote Desktop
-- 
+    - For Mac user check out this video on how to remote desktop connect ( https://tinyurl.com/yhvrs3mt )
+  
+
 
 <h2>Actions and Observations</h2>
 
